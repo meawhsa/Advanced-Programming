@@ -1,0 +1,1 @@
+ name : mahsa , 1400 , scores : [12.0, 15.0, 29.0] , avarage = 18.67
